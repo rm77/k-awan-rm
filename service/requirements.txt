@@ -1,6 +1,4 @@
-shelve
 flask
 flask_restful
 uuid
 requests
-
