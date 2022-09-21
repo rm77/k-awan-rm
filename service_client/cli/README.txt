@@ -1,0 +1,4 @@
+jalankan
+
+sh cek.sh
+
