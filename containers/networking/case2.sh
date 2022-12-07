@@ -1,3 +1,6 @@
+#macvlan mode
+
+
 docker rm -f myhost1 myhost2 myhost3 myhost0
 docker network rm  myapp-network
 docker network create \
