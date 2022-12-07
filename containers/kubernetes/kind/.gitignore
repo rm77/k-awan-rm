@@ -2,4 +2,5 @@ kubectl
 kind
 hostpath/
 kubeconfig
+octant
 
